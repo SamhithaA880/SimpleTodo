@@ -1,10 +1,10 @@
-# Android Prework - *Simple Todo*
+# Android Prework - *Hello World*
 
 Submitted by: **Samhitha Arikati**
 
-**Simple Todo** is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
+**Hello World** is an android app that shows an image and introductory message, and allows pressing a button to display a Toast. 
 
-Time spent: **10** hours spent in total
+Time spent: **11** hours spent in total
 
 ## Required Features
 
@@ -23,9 +23,11 @@ The following **optional** features are implemented:
 Here's a walkthrough of implemented features:
 
 <img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
+![HelloWorld](https://user-images.githubusercontent.com/118684504/216886309-2c05bc3c-c1d5-4c21-a366-e34bc5a39bb9.gif)
 
 <!-- Replace this with whatever GIF tool you used! -->
 GIF created with ...  
+LICEcap
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
