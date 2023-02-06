@@ -22,12 +22,10 @@ The following **optional** features are implemented:
 
 Here's a walkthrough of implemented features:
 
-<img src='http://i.imgur.com/link/to/your/gif/file.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
-![HelloWorld](https://user-images.githubusercontent.com/118684504/216886309-2c05bc3c-c1d5-4c21-a366-e34bc5a39bb9.gif)
+<img src='HelloWorld.gif' title='Video Walkthrough' width='' alt='Video Walkthrough' />
 
 <!-- Replace this with whatever GIF tool you used! -->
-GIF created with ...  
-LICEcap
+GIF created with LICEcap
 <!-- Recommended tools:
 [Kap](https://getkap.co/) for macOS
 [ScreenToGif](https://www.screentogif.com/) for Windows
@@ -36,6 +34,8 @@ LICEcap
 ## Notes
 
 Describe any challenges encountered while building the app.
+I had to change the layout of the App because my phone is larger and the original layout seemed too small.
+I struggled with understanding all the functions of Android Studio however, the links provided helped me.
 
 ## License
 
