@@ -1,0 +1,5 @@
+<resources>
+    <string name="app_name">HelloWorld</string>
+    <string name="button_text">Say hello!</string>
+    <string name="Samhitha_intro">Hello World! My name is Samhitha Arikati and I love coding and Golden Retrievers</string>
+</resources>
